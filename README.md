@@ -1,0 +1,1 @@
+This is an exercise for The Odin Project. It is to practice building a website using HTML, in addition to using Git and Github to write commits.
